@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 10;
+  box-sizing: border-box;
+  outline: none; border: none;
+  transition: all .2s linear;
+
+
+}
+body{
+  padding-top: 100px;
+}
+
